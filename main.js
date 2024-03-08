@@ -1,4 +1,3 @@
 function onClick(){
-    console.log("Hello From button")
-
+    console.log("Hello From button");
 }
