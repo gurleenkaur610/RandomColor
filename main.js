@@ -1,4 +1,4 @@
 function onClick(){
-    console.log("Heelo From button")
+    console.log("Hello From button")
 
 }
